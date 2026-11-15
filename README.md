@@ -1,10 +1,24 @@
-<table align="center" width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;"><h3><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="30"><br><a href="README.md">English</a></h3></td>
-    <td align="center" style="border: none;"><h3><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cz.svg" width="30"><br><a href="README_CZ.md">Česky</a></h3></td>
-    <td align="center" style="border: none;"><h3><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" width="30"><br><a href="README_RU.md">Русский</a></h3></td>
-  </tr>
-</table>
+<div align="center">
+
+  <a href="README.md">
+    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="30">
+    <br>
+    <strong>English</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="README_CZ.md">
+    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cz.svg" width="30">
+    <br>
+    <strong>Česky</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="README_RU.md">
+    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" width="30">
+    <br>
+    <strong>Русский</strong>
+  </a>
+
+</div>
 
 ---
 
