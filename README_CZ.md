@@ -10,8 +10,8 @@
 
 [![Platforma](https://img.shields.io/badge/platforma-Windows%2010%20%7C%2011-blue.svg)](https://github.com/Puzozhitel/combat-pillows)
 [![Licence](https://img.shields.io/badge/licence-Freeware%20%7C%20Komunita-green.svg)](https://github.com/Puzozhitel/combat-pillows)
-[![Языки](https://img.shields.io/badge/языки-Čeština%20%7C%20Angličtina%20%7C%20Ruština-orange.svg)](https://github.com/Puzozhitel/combat-pillows)
-[![Мультиплеер](https://img.shields.io/badge/мультиплеер-Интернет%20%7C%20LAN%20%7C%20Steam%20Remote%20Play-red.svg)](https://github.com/Puzozhitel/combat-pillows)
+[![Jazyky](https://img.shields.io/badge/jazyky-Čeština%20%7C%20Angličtina%20%7C%20Ruština-orange.svg)](https://github.com/Puzozhitel/combat-pillows)
+[![Multiplayer](https://img.shields.io/badge/multiplayer-Online%20%7C%20LAN%20%7C%20Steam%20Remote%20Play-red.svg)](https://github.com/Puzozhitel/combat-pillows)
 
 **Combat Pillows (Bulánci): Enhanced Edition** je komunitní verze legendární české akční 2D hry z roku 2001 od studia **SleepTeam**, postavená na poslední dostupné verzi.
 
@@ -57,7 +57,6 @@ Tato verze obsahuje integrovanou podporu Steam API. Pro použití Steam Remote P
 
 ---
 
-## ⚖️ Правовая информация
-
-* **Оригинальная игра:** Разработана студией **SleepTeam** (2001). Все авторские права на оригинальные ресурсы, персонажей и звуки принадлежат их законным авторам.
-* **Enhanced Edition:** Некоммерческий открытый проект сообщества, созданный исключительно с целью сохранения классической игры и обеспечения её работоспособности на современных компьютерах.
+## ⚖️ Právní upozornění
+* **Původní hra:** Vytvořeno studiem **SleepTeam** (2001). Veškerá původní autorská práva k prostředkům, zvukům a sprite artu patří jejich příslušným tvůrcům.
+* **Enhanced Edition:** Nekomerční open-source iniciativa komunity vytvořená za účelem zachování klasických 2D retro her pro moderní operační systémy.
