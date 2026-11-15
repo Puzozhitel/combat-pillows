@@ -1,18 +1,8 @@
-<div align="center">
-
-  <a href="README.md">
-    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="25" align="middle"> <strong>English</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="README_CZ.md">
-    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cz.svg" width="25" align="middle"> <strong>Česky</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="README_RU.md">
-    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" width="25" align="middle"> <strong>Русский</strong>
-  </a>
-
-</div>
+<p align="center">
+  <a href="README.md"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="20"> English</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="README_CZ.md"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cz.svg" width="20"> Česky</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="README_RU.md"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" width="20"> Русский</a>
+</p>
 
 ---
 
