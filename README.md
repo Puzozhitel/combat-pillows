@@ -1,1 +1,1 @@
-# combat-pillows
+# Combat Pillows (Bulánci): Enhanced Edition
