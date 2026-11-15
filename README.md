@@ -24,7 +24,7 @@ This edition reverse-engineers and enhances the original Win32 engine to provide
 ## ✨ Key Features
 
 * 🌐 **Global Online Multiplayer:** Play over the Internet with friends worldwide without third-party VPN tools (Hamachi/Radmin) or manual port forwarding. Powered by integrated UPnP automatic port-mapping and an optional Master Server Browser.
-* 🎮 **Steam Remote Play Together:** Native integration allowing you to stream local multiplayer & deathmatch sessions to your Steam friends with a single invite.
+* 🎮 **Steam Remote Play Together:** Native integration enabled via the official Steam API. Simply run the game while Steam is active to enable seamless streaming and remote multiplayer with friends.
 * 🖥️ **Modern Windows & Display Support:** Fully optimized for Windows 10 and Windows 11 via custom `cnc-ddraw` integration. Supports arbitrary display resolutions (1080p, 1440p, 4K, ultrawide), integer scaling, smooth 60 FPS rendering, windowed/borderless modes, and optional CRT/xBRZ shaders.
 * 🗺️ **All Maps Unlocked & Custom Map Support:** All original campaign and deathmatch levels are unlocked from the start. Engine memory limits have been patched to support unlimited custom user-created maps (.eap files).
 * 🔄 **Built-In Auto-Updater:** Checks for updates seamlessly via the GitHub Releases API (both automatic non-blocking startup check and manual check in the Exit dialog). Downloads and applies updates safely while backing up your previous executable.
@@ -57,9 +57,10 @@ This edition reverse-engineers and enhances the original Win32 engine to provide
 3. Other players choose **Multiplayer -> Connect**, enter the Host's IP, and join the match.
 
 ### 2. Steam Remote Play Together
-1. Add the game to Steam as a non-Steam game (or keep `steam_appid.txt` present).
-2. Launch the game, open the Steam Overlay (`Shift+Tab`), right-click any friend, and click **Remote Play Together**.
-3. Play split-screen / hot-seat multiplayer over the Internet with only one copy of the game needed!
+This version includes native Steam API integration. To use Steam Remote Play Together:
+1. Ensure Steam is running on your computer.
+2. Launch the game executable (`CombatPillows-*.exe`).
+3. Open the Steam Overlay (`Shift+Tab`), right-click any friend, and click **"Remote Play Together"**. Steam will automatically detect the game and allow you to invite friends.
 
 ---
 
