@@ -1,8 +1,8 @@
 <table align="center" width="100%">
   <tr>
-    <td align="center"><h3>🇬🇧 <a href="README.md">English</a></h3></td>
-    <td align="center"><h3>🇨🇿 <a href="README_CZ.md">Česky</a></h3></td>
-    <td align="center"><h3>🇷🇺 <a href="README_RU.md">Русский</a></h3></td>
+    <td align="center"><h3>🇬🇧<br><a href="README.md">English</a></h3></td>
+    <td align="center"><h3>🇨🇿<br><a href="README_CZ.md">Česky</a></h3></td>
+    <td align="center"><h3>🇷🇺<br><a href="README_RU.md">Русский</a></h3></td>
   </tr>
 </table>
 
@@ -34,18 +34,18 @@ This edition reverse-engineers and enhances the original Win32 engine to provide
   * 🇬🇧 **Combat Pillows** (English)
   * 🇷🇺 **Боевые Подушки** (Russian)
 * 🐛 **Engine Bug Fixes:** Eliminated legacy DirectDraw crashes, fixed Alt+Tab behavior, resolved sound buffer stuttering, and removed legacy memory clamp limitations.
-* 📦 **100% Portable:** Zero external dependencies, installers, or registry modifications. Extract and play anywhere.
+* 📦 **100% Portable:** Zero external dependencies, installers, or registry modifications. Just download the executable and play anywhere.
 
 ---
 
 ## 📥 Quick Start
 
-1. Go to the [**Releases**](https://github.com/Puzozhitel/combat-pillows/releases) page and download the latest release archive.
-2. Unpack the `.zip` archive to any folder (e.g., `C:\Games\CombatPillows`).
-3. Launch the executable for your preferred language:
+1. Go to the [**Releases**](https://github.com/Puzozhitel/combat-pillows/releases) page.
+2. Download the single executable file for your preferred language:
    * `Bulanci-<version>.exe` — Czech edition
    * `CombatPillows-EN-<version>.exe` — English edition
    * `CombatPillows-RU-<version>.exe` — Russian edition
+3. Run the downloaded executable directly. No installation or extraction required.
 
 ---
 
@@ -66,7 +66,7 @@ This edition reverse-engineers and enhances the original Win32 engine to provide
 ## 🗺️ Custom Maps
 
 To add custom maps:
-1. Place your `.eap` files into the game directory.
+1. Place your `.eap` files into the same folder where your game executable is located.
 2. The game will automatically detect and list all custom maps without overwriting the original levels.
 
 ---
