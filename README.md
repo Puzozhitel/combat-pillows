@@ -1,8 +1,8 @@
-<table align="center" width="100%">
-  <tr>
-    <td align="center"><h3>🇬🇧<br><a href="README.md">English</a></h3></td>
-    <td align="center"><h3>🇨🇿<br><a href="README_CZ.md">Česky</a></h3></td>
-    <td align="center"><h3>🇷🇺<br><a href="README_RU.md">Русский</a></h3></td>
+<table align="center" width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;"><h3><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="30"><br><a href="README.md">English</a></h3></td>
+    <td align="center" style="border: none;"><h3><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cz.svg" width="30"><br><a href="README_CZ.md">Česky</a></h3></td>
+    <td align="center" style="border: none;"><h3><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" width="30"><br><a href="README_RU.md">Русский</a></h3></td>
   </tr>
 </table>
 
