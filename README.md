@@ -1,4 +1,10 @@
-# 🇬🇧 [English](README.md) &nbsp;|&nbsp; 🇨🇿 [Česky](README_CZ.md) &nbsp;|&nbsp; 🇷🇺 [Русский](README_RU.md)
+<table align="center" width="100%">
+  <tr>
+    <td align="center"><h3>🇬🇧 <a href="README.md">English</a></h3></td>
+    <td align="center"><h3>🇨🇿 <a href="README_CZ.md">Česky</a></h3></td>
+    <td align="center"><h3>🇷🇺 <a href="README_RU.md">Русский</a></h3></td>
+  </tr>
+</table>
 
 ---
 
