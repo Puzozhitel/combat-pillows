@@ -1,21 +1,15 @@
 <div align="center">
 
   <a href="README.md">
-    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="30">
-    <br>
-    <strong>English</strong>
+    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="25" align="middle"> <strong>English</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="README_CZ.md">
-    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cz.svg" width="30">
-    <br>
-    <strong>Česky</strong>
+    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cz.svg" width="25" align="middle"> <strong>Česky</strong>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="README_RU.md">
-    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" width="30">
-    <br>
-    <strong>Русский</strong>
+    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" width="25" align="middle"> <strong>Русский</strong>
   </a>
 
 </div>
